@@ -1,0 +1,5 @@
+Welcome! You will hear two consecutive intervals, separated by a brief pause. Please indicate, as quickly as possible, whether these intervals are a match. 
+
+If the intervals match, press q. If they do not, press p.
+
+Click "continue" to begin.

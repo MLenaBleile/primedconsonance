@@ -1,0 +1,5 @@
+Please mark, as quickly as possible, whether these intervals match.
+
+Match = Q
+
+Non-match = P

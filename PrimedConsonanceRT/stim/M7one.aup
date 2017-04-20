@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="M7one_data" version="1.3.0" audacityversion="2.1.3" sel0="4.0071286064" sel1="4.0071286064" vpos="0" h="0.0000000000" zoom="167.9506864162" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="M7one" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="159122">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000743.au" len="159122" min="-1.003981" max="0.835192" rms="0.129278"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="3.60820862">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="17592">
+				<waveblock start="0">
+					<simpleblockfile filename="e00000e9.au" len="17592" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="M7one" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="159122">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000bb7.au" len="159122" min="-0.952157" max="0.826544" rms="0.12072"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="3.60820862">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="17592">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000425.au" len="17592" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
